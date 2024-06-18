@@ -1,4 +1,4 @@
-# LeetCode Solutions in Go
+# LeetCode Solutions
 
 This repository contains solutions to various LeetCode problems that I solve as part of my daily coding practice. The problems are categorized by difficulty programming languages.
 
